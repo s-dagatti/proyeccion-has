@@ -13,3 +13,5 @@ matplotlib>=3.7.0
 python-dateutil>=2.8.2
 
 starlette<0.40.0
+
+prophet
